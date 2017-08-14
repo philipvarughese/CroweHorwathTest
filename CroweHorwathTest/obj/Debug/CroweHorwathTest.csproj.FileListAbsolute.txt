@@ -1,0 +1,231 @@
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\csc.exe
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\vbc.exe
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll.config
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.pdb
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Owin.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\WebGrease.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.pdb
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.xml
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.csprojResolveAssemblyReference.cache
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.dll
+c:\users\phili\onedrive\documents\visual studio 2015\Projects\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.pdb
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\csc.exe
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\vbc.exe
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll.config
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.pdb
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Owin.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\WebGrease.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.pdb
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.xml
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.csprojResolveAssemblyReference.cache
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.dll
+C:\Users\phili\Dropbox\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.pdb
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\csc.exe
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\vbc.exe
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll.config
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\CroweHorwathTest.pdb
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Owin.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\WebGrease.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Newtonsoft.Json.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Net.Http.Formatting.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Helpers.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.WebHost.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Mvc.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Optimization.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Razor.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Antlr3.Runtime.pdb
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\EntityFramework.SqlServer.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\bin\System.Web.Http.Owin.xml
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.csprojResolveAssemblyReference.cache
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.dll
+C:\Users\phili\Desktop\CroweHorwathTest\CroweHorwathTest\obj\Debug\CroweHorwathTest.pdb
